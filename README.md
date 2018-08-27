@@ -37,6 +37,8 @@ Features: -Temperature:Temperature of the region during that week.
 
 6.It is a regression analysis problem.
 
+7.http://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting
+
 PROGRAM COMPILED  FOR THIS PROJECT:
 
 The whole program is written with the use of python language.
