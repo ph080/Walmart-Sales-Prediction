@@ -1,13 +1,23 @@
-Walmart Sales Prediction
+DATA SCIENCE PROJECT
+
+WALMART SALES FORECASTING DATA SET :
+
+INTRODUCTION:
+
+1.Retail industry is a front-runner in the large scale employment of data science. Areas such as product placement, inventory management and customization of offers, are sought to improve constantly through the application of data science. Walmart is one such retailer.
+
+2.train.csv and test.csv provides the information on historical sales of data of 45 stores of Walmart,features.csv,stores.csv, each of which having various departments. The goal is to predict the department-wise sales of each store using the historical data spanning across 143 weeks.
 
 
-⇒	The main objective was to forecast weekly sales for each department in 45 Walmart stores located in different regions and also to carry out statistical testing and validation of the models
+3.Walmart is also known for conducting promotional markdown events before major holidays such as Christmas, Thanksgiving, and Super Bowl among others. The difference between the weightage given to the data of regular weeks and the weeks including holiday seasons, coupled with unavailability of complete historical data, adds another level of difficulty of factoring the effects of the markdowns on the sales during the holiday weeks. 
 
-⇒	This project features a exploratory analysis and my predictive model was primarily based on linear regression
+4.It is a regression analysis problem.
 
-⇒	Predict which departments are affected with the holiday markdown events and the extent of impact.
+PROGRAM COMPILED  FOR THIS PROJECT:
 
-⇒	We would also like to create a linear model to find a specific value for Weekly Sales that we want to predict. This line of best fit is intended to approximate further data points based on the line that we find in our training data.
+The whole program is written with the use of python language.
 
-⇒	Perform dimensionality reduction to improve prediction error by shrinkage in order to reduce overfitting.
+
+
+
 
